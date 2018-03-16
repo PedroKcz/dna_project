@@ -49,6 +49,49 @@ body {
 	color: #fff;
 }
 
+.main_home {
+	margin: 50px;
+}
+
+.merchants_line {
+	display: inline;
+}
+
+.logos_merchants {
+	margin-right: 10px;
+	padding: 18px 32px 0px 32px;
+	text-decoration: none;
+	background-color: #ffffff;
+	border: 1px solid #A5A5A5;
+	border-radius: 3px;
+}
+
+.logo_image {
+	height: 27px;
+	width: 73px;
+}
+
+.search_merchant {
+	font-family: 'Open Sans', sans-serif;
+	height: 20px;
+	font-size: 16px;
+	color: #A5A5A5;
+	letter-spacing: 0;
+	background: #FFFFFF;
+	border: 1px solid #A5A5A5;
+	border-radius: 3px;
+}
+
+.view_merchant {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 22px;
+	color: #FFFFFF;
+	letter-spacing: 0;
+	background-color: #1E3761;
+	border-radius: 3px;
+}
+
+
 .topnav {
 	padding: 14px 30px;
 	overflow: hidden;
@@ -125,3 +168,4 @@ body {
         border: 1px solid #ccc;
     }
 }
+
